@@ -64,7 +64,7 @@ html,body{
 }
 .logo__heading{
     font-size: 8.5rem;
-    letter-spacing: 1rem;
+    letter-spacing: -1rem;
     background: #fff;
 }
 .C{

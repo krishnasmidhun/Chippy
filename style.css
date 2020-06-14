@@ -237,19 +237,3 @@ input[type="submit"]:hover {
     clear: both;
     
 }
-/**Media Query**/
-@media screen and (max-width: 958px) {
-html{
-    font-size:52.6%;
-}
-}
-@media screen and (max-width: 752px) {
-    html{
-        font-size:38.5%;
-    }
-    }
-    @media screen and (max-width: 600px) {
-        html{
-            font-size:25.5%;
-        }
-        }
